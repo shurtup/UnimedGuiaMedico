@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GuiaMedicoAndroidCaruaru.iml" filepath="$PROJECT_DIR$/GuiaMedicoAndroidCaruaru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnimedGuiaMedico.iml" filepath="$PROJECT_DIR$/UnimedGuiaMedico.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
